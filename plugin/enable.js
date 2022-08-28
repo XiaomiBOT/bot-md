@@ -301,13 +301,13 @@ ${usedPrefix}off welcome
       throw false
   }
  conn.reply(m.chat, ` *${type}* berhasil di *${isEnable ? 'nyala' : 'mati'}kan* ${isAll ? 'untuk bot ini' : isUser ? '' : 'untuk chat ini'} `, m, { contextInfo: { externalAdReply :{
-    mediaUrl: 'https://github.com/Kangsad01',
+    mediaUrl: 'https://github.com/Xiaomi',
     mediaType: 2,
     description: deslink, 
     title: titlink,
     body: wm,
     thumbnail: await(await fetch(img)).buffer(),
-    sourceUrl: 'https://github.com/Kangsad01'
+    sourceUrl: 'https://github.com/Xiaomi'
      }}
   })
 }
