@@ -39,17 +39,17 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'ʙy 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
         global.kontak2 = [
-        ['6285779150501', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'ranggastory94@gmail.com', true],
-        ['6289512630591', 'Hanz-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6289512630591', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true]
+        ['62857791505012', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'ranggastory94@gmail.com', true],
+        ['62857791505013', 'Hanz-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
+        ['62857791505013', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
