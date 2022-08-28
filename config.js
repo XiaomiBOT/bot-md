@@ -4,7 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6285779150501', 'RANGGA.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
+['62857791505012', 'RANGGA.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
 ['6289512630591', 'Hanz-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
 ]
 global.APIs = { // API Prefix
@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Rangga.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-global.linkgc = 'https://chat.whatsapp.com/JCgXlfkzK6p6xIYk5ij0Pa'
+global.linkgc = 'https://chat.whatsapp.com/DcIcuTKGWSm1pxBVc9pgvR'
 global.linkig = 'https://www.instagram.com/rangga_botz'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
